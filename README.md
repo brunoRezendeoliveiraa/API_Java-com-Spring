@@ -1,4 +1,4 @@
-# API_Java com Spring
+## API_Java com Spring
 
 Uma API feita em Java utilizando o Spring, MongoDB e a ferramenta de API's Postman.
 
@@ -7,8 +7,6 @@ Uma API feita em Java utilizando o Spring, MongoDB e a ferramenta de API's Postm
 O projeto se trata de um CRUD para inserção de dados para um arquivo JSON.
 
 ## Tecnologias utilizadas
-
-Liste as tecnologias que foram utilizadas no projeto. Por exemplo:
 
 - Java
 - Spring
